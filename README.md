@@ -1,3 +1,3 @@
 # EE201
 
-This is a new edit
+EE201: Computer Hardware Skills Repository
